@@ -8,9 +8,9 @@ I'm Imad from Morocco, and I'm in love with Web Development, I really enjoy lear
 
 Skills: REACT / JS / TS / Laravel / PHP / Chakra UI / Tailwind / Bootstrap
 
-- 🔭 I’m currently working on an ordering system for a Restaurant 
-- 🌱 I’m currently learning Django frameworks 
-- 📫 How to reach me: whatsapp( +212625089966) or Email(i_aayach@yahoo.com) 
+- 🔭 I’m currently working on an ordering system for a Restaurant.
+- 🌱 I’m currently learning theDjango framework. 
+- 📫 How to reach me: whatsapp( +212625089966) or Email(i_aayach@yahoo.com).
 
 
 
